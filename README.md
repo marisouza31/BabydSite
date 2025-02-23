@@ -5,7 +5,7 @@ Repositório criado para armazenar o site atualizado para este ano de 2025, refr
 
 # Link do site
 
-[![SiteBabyD](https://img.shields.io/static/v1?label=SiteBabyD&message=AcesseAqui!&color=e2eaa9&style=for-the-badge&logo=ghost)](https://marisouza31.github.io/BabyD/)
+
 ##
 
 <div align="justify">
