@@ -3,7 +3,7 @@
 Repositório criado para armazenar o site atualizado para este ano de 2025, refrente ao Trabalho de Conclusão de Curso apresentado ao Curso Técnico em Desenvolvimento de Sistemas da Etec Zona Leste em 2024.
 ##
 
-# Link do GitPages
+# Link do site
 
 [![SiteBabyD](https://img.shields.io/static/v1?label=SiteBabyD&message=AcesseAqui!&color=e2eaa9&style=for-the-badge&logo=ghost)](https://marisouza31.github.io/BabyD/)
 ##
