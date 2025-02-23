@@ -21,13 +21,10 @@ Uma solução que tem por objetivo desenvolver uma aplicação que usa de tecnol
 <div align="center">
   
   <h4>Alguns Layouts do Site:</h4>
-  <img width="500" src="https://github.com/marisouza31/BabyD/blob/main/README/home.png"><br>
-  <img width="500" src="https://github.com/marisouza31/BabyD/blob/main/README/sobre-nos.png"><br>
-  <img width="500" src="https://github.com/marisouza31/BabyD/blob/main/README/objetivos.png"><br>
-  <img width="500" src="https://github.com/marisouza31/BabyD/blob/main/README/membros.png"><br>
-  <img width="500" src="https://github.com/marisouza31/BabyD/blob/main/README/galeria.png"><br>
-<img width="500" src="https://github.com/marisouza31/BabyD/blob/main/README/contatos.png">
-
+  <img width="500" src="https://github.com/marisouza31/BabyDSite/blob/main/wireframes/home.png"><br>
+  <img width="500" src="https://github.com/marisouza31/BabyDSite/blob/main/wireframes/sobrenos.png"><br>
+  <img width="500" src="https://github.com/marisouza31/BabyDSite/blob/main/wireframes/objetivos.png"><br>
+  <img width="500" src="https://github.com/marisouza31/BabyDSite/blob/main/wireframes/footer.png"><br>
 </div>
 
 ##
