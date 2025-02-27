@@ -11,6 +11,15 @@ Uma solução que tem por objetivo desenvolver uma aplicação que usa de tecnol
 
 </div>
 
+<div align="justify">
+  
+**Atualizações no BabyD**
+
+Neste ano de 2025, o projeto foi atualizado, tanto o site quanto o nosso aplicativo. As mudanças realizadas para este ano foram: Logo do projeto e cores. Foram implementadas novas funcionalidades para uma melhor usabilidade. Dentre as novas funciolaidades são: Tela de relatórios para o admin fazer anotações, e uma tela de QRcode apenas para puxar as 
+informações de todos os usuários. Cada usuário terá seu QRcode e poderá acessar individualmente. Esse QRcode deverá ser mostrado para o funcionário da creche, caso o reconhecimento facial falhe. O funcionário deverá escanear esse QRcode, e assim conseguirá identificar o responsável.
+
+</div>
+
 ##
 
 <div align="center">
