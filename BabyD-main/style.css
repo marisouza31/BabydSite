@@ -32,27 +32,6 @@ section{
   padding: 3rem 7%;
 }
 
-.heading span{
-  color: var(--orange);
-  text-transform: uppercase;
-}
-
-.btn{
-  font-size: 1.7rem;
-  margin-top: 1rem;
-  display: inline-block;
-  padding: .8rem 3rem;
-  border-radius: .5rem;
-  border: .2rem solid var(--orange);
-  color: var(--orange);
-  background: none;
-  cursor: pointer;
-}
-
-.btn:hover{
-  background: var(--orange);
-  color: var(--white);
-}
 
 /* header */
 
@@ -161,14 +140,14 @@ section{
 
 .sobrenos .row .image{
   flex: 1 1 50rem;
-    display: flex;
+  display: flex;
   justify-content: flex-end; 
 }
 
 .sobrenos .row .image img{
   width: 57%;
   height: 57%;
-   margin-right: 10%;
+  margin-right: 20%;
 }
 
 .sobrenos .row .content{
@@ -360,18 +339,49 @@ section{
   margin-bottom: 6rem;
 }
 
-.membros .box-container{
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
-  gap: 1.5rem;
+.membros {
+  background: url("images/fundo-membros.png") no-repeat center center;
+  background-size: cover;
+  min-height: 100vh; /* Garante que o fundo cubra a tela */
+  width: 100%;
+  background-attachment: fixed;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 5rem 2rem;
 }
 
-.membros .box-container .box{
+/* Ajusta a visibilidade do fundo para telas menores */
+@media (max-width: 768px) {
+  .membros {
+    background-attachment: scroll; /* Remove o efeito fixo em telas menores */
+    background-size: contain; /* Garante que a imagem seja visível */
+  }
+}
+
+.membros .box-container {
+  display: flex;
+  justify-content: center; /* Centraliza os cards */
+  gap: 5rem; /* Espaço entre os cards */
+  flex-wrap: wrap; /* Permite que os cards quebrem para a linha de baixo em telas menores */
+}
+
+.membros .box-container .box {
   background: var(--white);
   padding: 3rem 2rem;
   text-align: center;
   box-shadow: var(--box-shadow);
   border-radius: 2rem;
+  width: 40rem; /* Define uma largura fixa para os cards */
+  max-width: 100%; /* Garante que os cards não fiquem maiores que o necessário */
+}
+
+/* Ajusta o layout para telas menores */
+@media (max-width: 768px) {
+  .membros .box-container {
+    flex-direction: column; /* Em telas menores, os cards ficam empilhados */
+    align-items: center;
+  }
 }
 
 .membros .box-container .box img{
@@ -617,6 +627,13 @@ section{
 
 .footer .credit span{
   color: var(--blue);
+}
+
+.footer .box-container .box img {
+  max-width: 100%; /* Garante que a imagem não ultrapasse o contêiner */
+  height: auto; /* Mantém a proporção original da imagem */
+  display: block; /* Evita espaços extras ao redor da imagem */
+  margin: 0 auto; /* Centraliza a imagem dentro do box */
 }
 
 /* fim */
