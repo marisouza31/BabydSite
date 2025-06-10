@@ -28,8 +28,6 @@ informações de todos os usuários. Cada usuário terá seu QRcode e poderá ac
   <img width="500" src="https://github.com/marisouza31/BabyDSite/blob/main/wireframes/home.png"><br>
   <img width="500" src="https://github.com/marisouza31/BabyDSite/blob/main/wireframes/sobrenos.png"><br>
   <img width="500" src="https://github.com/marisouza31/BabyDSite/blob/main/wireframes/objetivos.png"><br>
-  <img width="500" src="https://github.com/marisouza31/BabyDSite/blob/main/wireframes/membros.png"><br>
-  <img width="500" src="https://github.com/marisouza31/BabyDSite/blob/main/wireframes/footer.png"><br>
 </div>
 
 ##
