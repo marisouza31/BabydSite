@@ -17,6 +17,7 @@ Uma solução que tem por objetivo desenvolver uma aplicação que usa de tecnol
   
   <h4>Alguns Layouts do APP:</h4>
   <img width="700" src="https://github.com/marisouza31/BabyDSite/blob/main/wireframes/app-babyd.png"><br>
+  Fonte: BABYD
 </div>
 
 <div align="center">
@@ -24,6 +25,7 @@ Uma solução que tem por objetivo desenvolver uma aplicação que usa de tecnol
   <h4>Alguns Layouts do Site:</h4>
   <img width="500" src="https://github.com/marisouza31/BabyDSite/blob/main/wireframes/home.png"><br>
   <img width="500" src="https://github.com/marisouza31/BabyDSite/blob/main/wireframes/objetivos.png"><br>
+  Fonte: BABYD
 </div>
 
 <div align="center">
