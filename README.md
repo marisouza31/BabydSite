@@ -17,7 +17,6 @@ Uma solução que tem por objetivo desenvolver uma aplicação que usa de tecnol
 [![SiteBabyD](https://img.shields.io/static/v1?label=SiteBabyD&message=AcesseAqui!&color=e2eaa9&style=for-the-badge&logo=ghost)](https://babydsiteweb.vercel.app/)
 ##
 
-##
 <div align="center">
   
   <h4>Alguns Layouts do APP:</h4>
